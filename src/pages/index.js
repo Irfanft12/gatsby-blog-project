@@ -7,6 +7,7 @@ export default function Index() {
     <Layout>
       <Metadata title="Home" description="This is home page" />
       <h1>Home page</h1>
+      <p>Gatsby Tutorial</p>
     </Layout>
   )
 }
