@@ -20,7 +20,7 @@ export default function Footer() {
         <footer className={footerStyles.siteFooter}>
             <div className={footerStyles.container}>
                 <p>
-                   Site developed by {data.site.siteMetadata.author} &copy; { new Date().getFullYear().toString() } All rights reserved.
+                   This is a tutorial &copy; { new Date().getFullYear().toString() } All rights reserved.
                 </p>
             </div>
         </footer>
